@@ -1,8 +1,7 @@
 # Running the Project
 To run the project locally, simply open your project in a terminal window and run the following commands:
 
-    tsc
-    npm run build
+    npm run watch
     npm run start
 
 This should open your project on port 8000, but you can change this in the bs-config.json file.
